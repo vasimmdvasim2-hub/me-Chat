@@ -1,0 +1,6 @@
+{
+  "name": "MeChat",
+  "description": "Fast, secure messaging, status updates with scores & filters, and HD video meetings with MeChat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

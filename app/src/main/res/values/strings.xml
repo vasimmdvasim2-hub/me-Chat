@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MeChat</string>
+    <string name="welcome_to_mechat">Welcome to MeChat</string>
+    <string name="agree_and_continue">Agree and continue</string>
+    <string name="enter_phone_number">Enter your phone number</string>
+    <string name="verify_phone_number">Verify your phone number</string>
+    <string name="resend_code">Resend code</string>
+    <string name="profile_info">Profile info</string>
+    <string name="chats">Chats</string>
+    <string name="updates">Updates</string>
+    <string name="meetings">Meetings</string>
+    <string name="communities">Communities</string>
+    <string name="calls">Calls</string>
+    <string name="settings">Settings</string>
+</resources>
